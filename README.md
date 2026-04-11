@@ -2,6 +2,8 @@
 <h3 align="center">A person still learning about code</h3>
 
 
+<a href="https://app.daily.dev/reincalnatan"><img src="https://api.daily.dev/devcards/v2/0W5dSWxn7P50xjOvAMQ9j.png?r=l0t&type=wide" width="652" alt="Reincal (Natan)'s Dev Card"/></a>
+
 # 💫 About Me:
 I am a student at an economics university with a strong interest in programming. I enjoy continuously learning and improving my skills in this field. As for my gender, I identify as an airplane.
 
